@@ -1,5 +1,6 @@
 ## Will this work in the new 64-bit software update?
 Most definitely, as it's been tested by people.
+This is axstin's FPS Unlocker but has been modified to be compatiable with the new 64-bit client.
 
 ## Usage
 1. Make sure you've turned off your anti-virus software as it will detect this file as a virus.
