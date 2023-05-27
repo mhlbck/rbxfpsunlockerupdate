@@ -6,7 +6,7 @@ This is axstin's FPS Unlocker but has been modified to be compatiable with the n
 1. Make sure you've turned off your anti-virus software as it will detect this file as a virus.
 2. Extract `rbxfpsunlocker.rar` into a folder
 3. Run `rbxfpsunlocker.exe` before or after starting Roblox
-5. Enjoy those beautiful frames 👌
+5. Enjoy those [beautiful frames](https://media.discordapp.net/attachments/1100478036245233886/1112058834396123216/image.png?width=1080&height=470) 👌
 
 
 ## FAQ
